@@ -1,0 +1,26 @@
+# Python関連
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 環境設定
+.env
+.venv/
+venv/
+
+# エディタ・IDE関連
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
+
+# ログ・一時ファイル
+*.log
+*.tmp
+
+# Git管理対象外
+.gitignore
